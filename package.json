@@ -12,17 +12,15 @@
     "title",
     "bar"
   ],
-  "exchange": "gdax",
-  "repository": "https://bitbucket.org/via-trading/gdax",
+  "exchange": "bitfinex",
+  "repository": "https://github.com/via-platform/bitfinex",
   "author": "Dakota Gordon",
   "engines": {
     "via": "*"
   },
   "dependencies": {
     "axios": "^0.16.2",
-    "bintrees": "^1.0.2",
     "num": "^0.3.0",
-    "time-series-cache": "^1.0.0",
     "underscore-plus": "^1.6.6",
     "ws": "^3.3.0"
   },
