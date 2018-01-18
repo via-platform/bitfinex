@@ -1,6 +1,6 @@
 {
   "name": "bitfinex",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Connect to the Bitfinex exchange.",
   "main": "./lib/main",
   "scripts": {
